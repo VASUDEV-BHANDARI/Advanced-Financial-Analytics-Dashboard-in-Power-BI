@@ -31,8 +31,7 @@ The goal of this project is to:
 The **Home Page** acts as the central control panel linking to all dashboards.  
 It provides a structured navigation layout for users to easily explore key performance areas.
  
-![Home Page Preview]([images/homepage.png](https://github.com/VASUDEV-BHANDARI/Advanced-Financial-Analytics-Dashboard-in-Power-BI/blob/main/Home%20Page.png))
-
+![Home Page Preview](https://github.com/VASUDEV-BHANDARI/Advanced-Financial-Analytics-Dashboard-in-Power-BI/blob/main/Home%20Page.png)
 ---
 
 ### 👥 2. Customer Analysis Dashboard
