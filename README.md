@@ -30,9 +30,8 @@ The goal of this project is to:
 ### 🗂️ 1. Home Page – Dashboard Navigation Hub
 The **Home Page** acts as the central control panel linking to all dashboards.  
 It provides a structured navigation layout for users to easily explore key performance areas.
-
-📸 *Insert Image Below*  
-![Home Page Preview](images/homepage.png)
+ 
+![Home Page Preview]([images/homepage.png](https://github.com/VASUDEV-BHANDARI/Advanced-Financial-Analytics-Dashboard-in-Power-BI/blob/main/Home%20Page.png))
 
 ---
 
